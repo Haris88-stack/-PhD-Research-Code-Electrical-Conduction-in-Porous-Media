@@ -17,7 +17,8 @@ The project investigates how geometrical pore-scale models, together with volume
 The work is based on:
  - Mathematical modelling of transport phenomena in porous media
  - Numerical methods for solving partial differential equations
- - Finite volume methods (implemented from scratch, without using OpenFOAM or similar software)
+ - Finite volume methods implemented in MATLAB (coded from scratch, without using OpenFOAM or similar software)
 
-## Repository Structure
+
+Download the full project folder here: [Yannick_PhD.zip](Yannick_PhD.zip)
 
